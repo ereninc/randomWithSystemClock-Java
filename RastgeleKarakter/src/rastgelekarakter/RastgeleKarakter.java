@@ -1,6 +1,6 @@
 /**
 *
-* @author Erencan İNANCI - erencan_inanci@hotmail.com / b171210308@sakarya.edu.tr
+* @author Eren
 * @since 10.03.2019 / 15:04:39
 * <p>
 * Rastgelelik kavramının sistem saatine göre oluşturulduğu ve metotların bulunduğu java programı.
