@@ -1,6 +1,6 @@
 /**
 *
-* @author Erencan İNANCI - erencan_inanci@hotmail.com / b171210308@sakarya.edu.tr
+* @author Eren
 * @since 14.03.2019 / 16:28
 * <p>
 * Test Programı
